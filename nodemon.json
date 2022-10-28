@@ -1,8 +1,8 @@
-{
-    "env":{
-        "DB_USER":"enas",
-        "DB_PASSWORD":"enas1234",
-        "DB_NAME":"mern",
-        "TOKEN_STR":"supersecret_dont_share"
-    }
-}
+// {
+//     "env":{
+//         "DB_USER":"enas",
+//         "DB_PASSWORD":"enas1234",
+//         "DB_NAME":"mern",
+//         "TOKEN_STR":"supersecret_dont_share"
+//     }
+// }
